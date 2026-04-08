@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-las-vegas-roofing.dream-surge.com/sitemap-index.xml

@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Las Vegas Roofing",
+    "phone": "+17252373864",
+    "category": "roofing contractor",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Vegas's Strongest Roofs",
+      "heroSubline": "Protecting your home from the desert heat and monsoons. Expert roofing solutions built to last in Las Vegas.",
+      "aboutTitle": "Built on Vegas Grit",
+      "aboutText": [
+        "Las Vegas Roofing isn't just another contractor—we're a team forged in the Nevada desert. We understand the unique challenges our climate throws at your roof, from scorching summers to fierce dust storms. We're committed to providing roofing solutions that stand the test of time.",
+        "Our approach is simple: honest assessments, quality materials, and meticulous workmanship. We don't cut corners, and we treat every roof as if it were our own. We believe in clear communication, transparent pricing, and exceeding expectations on every project.",
+        "We're proud to be a part of the Las Vegas community. We support local initiatives and believe in giving back. When you choose Las Vegas Roofing, you're choosing a company that cares about its neighbors and is invested in the long-term well-being of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Desert-Tough Roofing",
+          "description": "Engineered for extreme heat, UV, and dust storms. Built to withstand Las Vegas weather."
+        },
+        {
+          "title": "Experienced Local Team",
+          "description": "Decades of experience serving the Las Vegas Valley. We know local building codes and challenges."
+        },
+        {
+          "title": "Transparent Pricing",
+          "description": "No hidden fees or surprise costs. Honest, upfront quotes you can rely on."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We source only the best materials for long-lasting protection and curb appeal."
+        }
+      ],
+      "ctaHeadline": "Get Your Free Roofing Quote",
+      "ctaSubline": "Protect your home with a roof built to last. Contact us today for a free, no-obligation estimate."
+    },
+    "services": [
+      {
+        "slug": "roof-repair",
+        "name": "Roof Repair",
+        "shortDescription": "Fast, reliable roof repairs to stop leaks and prevent further damage.",
+        "description": "Las Vegas weather is brutal. Extreme heat, intense UV radiation, and sudden monsoon storms can wreak havoc on your roof, leading to leaks, cracks, and damaged shingles. Ignoring these issues can lead to costly structural problems down the road. We specialize in identifying and repairing all types of roof damage, from minor leaks to major storm damage.\n\nOur experienced technicians conduct thorough inspections to pinpoint the source of the problem. We then provide you with a detailed assessment and a clear explanation of the necessary repairs. We use only high-quality materials and proven techniques to ensure a long-lasting, effective repair. Whether you have a shingle roof, tile roof, or flat roof, we have the expertise to get the job done right the first time.\n\nWe handle everything from replacing missing shingles and repairing flashing to patching leaks and addressing structural damage. Don't let a small problem turn into a major headache. Contact Las Vegas Roofing for fast, reliable roof repair services.",
+        "process": [
+          "Step 1: Thorough roof inspection to identify all damage.",
+          "Step 2: Detailed assessment and transparent quote.",
+          "Step 3: Expert repair using quality materials.",
+          "Step 4: Post-repair inspection to ensure quality and satisfaction."
+        ],
+        "benefits": [
+          "Stops leaks and prevents further damage",
+          "Extends the life of your roof",
+          "Protects your home and belongings",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to a roof leak?",
+            "answer": "We understand that roof leaks require immediate attention. We offer emergency repair services and strive to respond to all calls as quickly as possible."
+          },
+          {
+            "question": "Do you offer a warranty on your roof repairs?",
+            "answer": "Yes, we stand behind our work. We offer a comprehensive warranty on all roof repairs, giving you peace of mind."
+          },
+          {
+            "question": "What types of roofs do you repair?",
+            "answer": "We repair all types of residential and commercial roofs, including shingle, tile, flat roofs, and more."
+          }
+        ]
+      },
+      {
+        "slug": "roof-replacement",
+        "name": "Roof Replacement",
+        "shortDescription": "Upgrade your home with a durable, beautiful new roof.",
+        "description": "Is your roof showing its age? Are you experiencing frequent leaks or extensive damage? It might be time for a roof replacement. In Las Vegas, the extreme climate can accelerate the deterioration of roofing materials, making timely replacement crucial. We offer professional roof replacement services using high-quality materials designed to withstand the harsh desert conditions.\n\nWe begin with a comprehensive inspection to assess the condition of your existing roof and determine the best replacement options for your needs and budget. We offer a wide selection of roofing materials, including asphalt shingles, tile, and flat roofing systems. Our experienced team handles every aspect of the replacement process, from removing the old roof to installing the new one with precision and care.\n\nA new roof not only protects your home from the elements but also enhances its curb appeal and increases its value. We work closely with you to choose the right style and color to complement your home's architecture and personal preferences. We are committed to providing a seamless and stress-free roof replacement experience.",
+        "process": [
+          "Step 1: Comprehensive roof inspection and material selection.",
+          "Step 2: Removal of old roofing materials.",
+          "Step 3: Installation of new underlayment and roofing system.",
+          "Step 4: Final inspection and cleanup."
+        ],
+        "benefits": [
+          "Enhanced protection from the elements",
+          "Increased property value",
+          "Improved curb appeal",
+          "Long-term peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How long does a roof replacement take?",
+            "answer": "The duration of a roof replacement depends on the size and complexity of the roof, as well as the weather conditions. We will provide you with an estimated timeline during the initial consultation."
+          },
+          {
+            "question": "What types of roofing materials do you offer?",
+            "answer": "We offer a wide range of roofing materials, including asphalt shingles, tile, and flat roofing systems, from leading manufacturers."
+          },
+          {
+            "question": "Do you handle the necessary permits for roof replacement?",
+            "answer": "Yes, we take care of all necessary permits and inspections to ensure that your roof replacement complies with local building codes."
+          }
+        ]
+      },
+      {
+        "slug": "roof-inspections",
+        "name": "Roof Inspections",
+        "shortDescription": "Thorough roof inspections to identify potential problems early.",
+        "description": "Don't wait for a leak to discover a problem with your roof. Regular roof inspections are essential for maintaining the integrity of your home and preventing costly repairs. Las Vegas Roofing offers comprehensive roof inspection services to identify potential issues early on. Our experienced inspectors will thoroughly examine your roof for signs of damage, wear and tear, and improper installation.\n\nWe check for cracked, missing, or damaged shingles, damaged flashing, clogged gutters, and signs of water damage. We also assess the condition of the underlying structure to ensure its stability. Following the inspection, we provide you with a detailed report outlining our findings and recommendations for any necessary repairs or maintenance. \n\nA roof inspection can help you identify and address small problems before they escalate into major issues. It can also help you extend the life of your roof and protect your investment. Schedule a roof inspection today to ensure the long-term health of your roof.",
+        "process": [
+          "Step 1: Visual inspection of all roofing components.",
+          "Step 2: Detailed assessment of any damage or potential problems.",
+          "Step 3: Comprehensive report with findings and recommendations.",
+          "Step 4: Consultation to discuss repair or maintenance options."
+        ],
+        "benefits": [
+          "Early detection of potential problems",
+          "Prevention of costly repairs",
+          "Extended roof lifespan",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my roof inspected?",
+            "answer": "We recommend having your roof inspected at least once a year, and after any major weather event, such as a monsoon storm or strong winds."
+          },
+          {
+            "question": "What is included in a roof inspection?",
+            "answer": "Our roof inspections include a thorough examination of all roofing components, including shingles, flashing, gutters, and the underlying structure."
+          },
+          {
+            "question": "How much does a roof inspection cost?",
+            "answer": "The cost of a roof inspection depends on the size and complexity of the roof. Contact us for a free quote."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-services",
+        "name": "Gutter Services",
+        "shortDescription": "Gutter cleaning, repair, and installation to protect your home's foundation.",
+        "description": "In Las Vegas, properly functioning gutters are crucial for protecting your home from water damage. Our intense monsoon seasons can overwhelm inadequate or clogged gutters, leading to foundation problems, landscaping erosion, and interior leaks. We offer a full range of gutter services to keep your home safe and dry.\n\nOur services include gutter cleaning, repair, and installation. We remove debris, repair leaks, and install new gutters that are properly sized and sloped to effectively channel water away from your home. We offer a variety of gutter styles and materials to complement your home's architecture and personal preferences. We ensure gutters are free from buildup of leaves, dirt, and debris. We also inspect for damage, repair leaks, and ensure proper functionality.\n\nProtect your home from water damage with our professional gutter services. Contact us today for a free estimate.",
+        "process": [
+          "Step 1: Gutter inspection to assess condition and identify any issues.",
+          "Step 2: Thorough cleaning to remove debris and clogs.",
+          "Step 3: Repair of any leaks or damage.",
+          "Step 4: Installation of new gutters if necessary."
+        ],
+        "benefits": [
+          "Protects your home's foundation",
+          "Prevents water damage",
+          "Maintains landscaping",
+          "Extends the life of your roof"
+        ],
+        "faq": [
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "We recommend cleaning your gutters at least twice a year, in the spring and fall, to prevent clogs and ensure proper water flow."
+          },
+          {
+            "question": "What are the signs that my gutters need repair?",
+            "answer": "Signs that your gutters need repair include leaks, sagging, rust, and water damage around your home's foundation."
+          },
+          {
+            "question": "What types of gutters do you install?",
+            "answer": "We install a variety of gutter styles and materials, including aluminum, copper, and vinyl gutters."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-roofing",
+        "name": "Emergency Roofing Services",
+        "shortDescription": "24/7 emergency roofing repairs to protect your home from further damage.",
+        "description": "Roofing emergencies can happen at any time, especially in Las Vegas with its unpredictable weather patterns. Whether it's a sudden monsoon storm, high winds, or unexpected damage, you need a reliable roofing contractor who can respond quickly. Las Vegas Roofing offers 24/7 emergency roofing services to protect your home from further damage.\n\nOur emergency services include temporary repairs, leak sealing, and debris removal. We will assess the damage, provide you with a clear explanation of the necessary repairs, and take immediate action to secure your roof and prevent further water intrusion. We understand the urgency of roofing emergencies and will respond promptly to your call. \n\nDon't let a roofing emergency compromise the safety and security of your home. Contact Las Vegas Roofing for fast, reliable emergency roofing services.",
+        "process": [
+          "Step 1: Immediate response to your emergency call.",
+          "Step 2: Rapid assessment of the damage.",
+          "Step 3: Temporary repairs to secure your roof.",
+          "Step 4: Detailed explanation of the necessary repairs and a plan for long-term solutions."
+        ],
+        "benefits": [
+          "24/7 availability",
+          "Fast response time",
+          "Protection from further damage",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a roofing emergency?",
+            "answer": "A roofing emergency includes any situation that poses an immediate threat to your home, such as a major leak, storm damage, or structural collapse."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to all emergency calls as quickly as possible, typically within a few hours."
+          },
+          {
+            "question": "What types of emergency repairs do you offer?",
+            "answer": "We offer a range of emergency repairs, including temporary patching, leak sealing, and debris removal."
+          }
+        ]
+      },
+      {
+        "slug": "flat-roofing",
+        "name": "Flat Roofing Services",
+        "shortDescription": "Expert flat roofing installation, repair, and maintenance for commercial and residential buildings.",
+        "description": "Many commercial buildings and some modern homes in Las Vegas feature flat roofs. These roofs require specialized knowledge and expertise to ensure proper installation, repair, and maintenance. Las Vegas Roofing offers comprehensive flat roofing services using high-quality materials and proven techniques.\n\nWe handle all aspects of flat roofing, including installation, repair, and maintenance. We work with a variety of flat roofing materials, including TPO, PVC, and modified bitumen. Our experienced technicians ensure that your flat roof is properly sealed and waterproofed to prevent leaks and protect your building from the elements.\n\nWe also offer regular maintenance services to extend the life of your flat roof and prevent costly repairs. Contact Las Vegas Roofing for reliable flat roofing solutions.",
+        "process": [
+          "Step 1: Inspection of existing flat roof or assessment of new construction needs.",
+          "Step 2: Selection of appropriate flat roofing materials.",
+          "Step 3: Professional installation or repair using proven techniques.",
+          "Step 4: Regular maintenance to ensure long-term performance."
+        ],
+        "benefits": [
+          "Specialized expertise in flat roofing systems",
+          "High-quality materials",
+          "Proper sealing and waterproofing",
+          "Extended roof lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What are the advantages of a flat roof?",
+            "answer": "Flat roofs are cost-effective, energy-efficient, and provide a usable space for rooftop decks or equipment."
+          },
+          {
+            "question": "What types of flat roofing materials do you work with?",
+            "answer": "We work with a variety of flat roofing materials, including TPO, PVC, and modified bitumen."
+          },
+          {
+            "question": "How do you prevent leaks in a flat roof?",
+            "answer": "We use high-quality materials and proven techniques to ensure that your flat roof is properly sealed and waterproofed."
+          }
+        ]
+      },
+      {
+        "slug": "tile-roofing",
+        "name": "Tile Roofing Services",
+        "shortDescription": "Durable and beautiful tile roofing solutions for Las Vegas homes.",
+        "description": "Tile roofs are a popular choice in Las Vegas due to their durability, energy efficiency, and aesthetic appeal. However, tile roofs require specialized knowledge and expertise to install and maintain properly. Las Vegas Roofing offers comprehensive tile roofing services to ensure that your tile roof provides long-lasting protection and beauty.\n\nWe handle all aspects of tile roofing, including installation, repair, and maintenance. We work with a variety of tile materials, including concrete, clay, and slate. Our experienced technicians ensure that your tile roof is properly installed and sealed to prevent leaks and protect your home from the elements.\n\nWe also offer regular maintenance services to extend the life of your tile roof and prevent costly repairs. Contact Las Vegas Roofing for reliable tile roofing solutions.",
+        "process": [
+          "Step 1: Inspection of existing tile roof or assessment of new construction needs.",
+          "Step 2: Selection of appropriate tile roofing materials.",
+          "Step 3: Professional installation or repair using proven techniques.",
+          "Step 4: Regular maintenance to ensure long-term performance."
+        ],
+        "benefits": [
+          "Durable and long-lasting",
+          "Energy-efficient",
+          "Aesthetically appealing",
+          "Increased property value"
+        ],
+        "faq": [
+          {
+            "question": "What are the advantages of a tile roof?",
+            "answer": "Tile roofs are durable, energy-efficient, and aesthetically appealing. They can also increase your home's value."
+          },
+          {
+            "question": "What types of tile roofing materials do you work with?",
+            "answer": "We work with a variety of tile materials, including concrete, clay, and slate."
+          },
+          {
+            "question": "How do you prevent leaks in a tile roof?",
+            "answer": "We use high-quality materials and proven techniques to ensure that your tile roof is properly installed and sealed."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Henderson",
+        "slug": "henderson-nv",
+        "state": "NV",
+        "content": "Las Vegas Roofing is proud to offer our expert roofing services to the residents and businesses of Henderson, Nevada. As one of the fastest-growing cities in the Las Vegas Valley, Henderson is known for its beautiful master-planned communities and family-friendly atmosphere. We understand the unique roofing needs of Henderson homes, many of which were built during the 1990s through the 2020s and require specific materials and installation techniques.\n\nOur experienced team is well-versed in handling the challenges posed by Henderson's extreme summer heat, which can often exceed 115°F. We use only the highest-quality roofing materials to ensure your roof can withstand the harsh desert climate and provide lasting protection for your home. From repairs and maintenance to complete roof replacements, Las Vegas Roofing is committed to providing reliable and affordable roofing solutions in Henderson.",
+        "localContext": "Henderson is a master-planned community-focused city experiencing extreme summer heat, requiring durable roofing solutions.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Paradise",
+          "Enterprise"
+        ]
+      },
+      {
+        "city": "North Las Vegas",
+        "slug": "north-las-vegas-nv",
+        "state": "NV",
+        "content": "Las Vegas Roofing provides comprehensive roofing services to the growing community of North Las Vegas. Known for its affordable newer construction and diverse neighborhoods, North Las Vegas presents a variety of roofing styles and requirements. We are dedicated to offering roofing solutions that fit your budget and enhance the value of your home.\n\nWe understand the importance of a well-maintained roof in North Las Vegas, especially with the extreme summer heat consistently exceeding 115°F. Our skilled technicians are equipped to handle all types of roofing projects, from minor repairs to complete replacements, ensuring your home is protected from the elements. Las Vegas Roofing is your trusted partner for all your roofing needs in North Las Vegas.",
+        "localContext": "North Las Vegas features affordable, newer construction homes that require robust roofing to withstand the extreme desert heat.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Sunrise Manor",
+          "Nellis AFB"
+        ]
+      },
+      {
+        "city": "Summerlin",
+        "slug": "summerlin-nv",
+        "state": "NV",
+        "content": "Las Vegas Roofing is proud to serve the upscale community of Summerlin, Nevada. As a premier master-planned community, Summerlin boasts beautiful homes and meticulously landscaped neighborhoods. We understand the high standards of Summerlin residents and are committed to providing roofing services that meet and exceed those expectations.\n\nWe specialize in working with the various roofing styles found in Summerlin, from tile and shingle to flat roofs. Our experienced team is equipped to handle the challenges posed by Summerlin's extreme summer heat, ensuring your roof provides lasting protection and enhances the curb appeal of your home. Whether you need a minor repair or a complete roof replacement, Las Vegas Roofing is your trusted partner in Summerlin.",
+        "localContext": "Summerlin is an upscale master-planned community with diverse roofing styles needing protection from intense desert heat.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Spring Valley",
+          "Paradise"
+        ]
+      },
+      {
+        "city": "Las Vegas",
+        "slug": "las-vegas-nv",
+        "state": "NV",
+        "content": "Las Vegas Roofing is your premier roofing contractor in the heart of Las Vegas, Nevada. We've served the Las Vegas valley for years, providing top-notch roofing services to homeowners and businesses alike. From the historic neighborhoods downtown to the modern developments in the suburbs, we understand the unique roofing needs of Las Vegas properties.\n\nOur team is experienced in handling the diverse range of roofing styles found throughout Las Vegas, and we're well-versed in the challenges posed by the desert climate. We use only the highest-quality materials and employ skilled technicians to ensure your roof can withstand the extreme heat and occasional monsoon storms. Whether you need a simple repair or a complete roof replacement, Las Vegas Roofing is here to help.",
+        "localContext": "Las Vegas faces extreme heat, requiring robust roofing solutions for its diverse architectural styles.",
+        "nearbyAreas": [
+          "Paradise",
+          "Spring Valley",
+          "Sunrise Manor"
+        ]
+      },
+      {
+        "city": "Paradise",
+        "slug": "paradise-nv",
+        "state": "NV",
+        "content": "Las Vegas Roofing offers comprehensive roofing services to the community of Paradise, Nevada. Home to the Las Vegas Strip and McCarran International Airport, Paradise is a bustling area with unique roofing demands. We cater to both residential and commercial properties, providing reliable and efficient roofing solutions.\n\nWe understand the importance of a well-maintained roof in Paradise, especially given the high traffic and exposure to the elements. Our skilled technicians are equipped to handle all types of roofing projects, from hotels and casinos to homes and apartments. Las Vegas Roofing is committed to providing quality workmanship and exceptional customer service in Paradise.",
+        "localContext": "Paradise, NV needs reliable roofing construction and maintenance due to the high traffic and exposure to the elements from being near the strip.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Winchester",
+          "Enterprise"
+        ]
+      },
+      {
+        "city": "Spring Valley",
+        "slug": "spring-valley-nv",
+        "state": "NV",
+        "content": "Las Vegas Roofing is a trusted roofing provider in Spring Valley, Nevada. Known for its diverse community and convenient location, Spring Valley features a mix of residential and commercial properties. We offer a full range of roofing services to meet the needs of Spring Valley residents and businesses.\n\nOur team is experienced in working with various roofing materials and styles, and we understand the importance of a durable, energy-efficient roof in the desert climate. We are committed to providing affordable and reliable roofing solutions that enhance the value and protection of your property. Las Vegas Roofing is your go-to choice for roofing services in Spring Valley.",
+        "localContext": "Spring Valley's diverse community requires adaptable roofing solutions to withstand the desert climate.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Summerlin",
+          "Enterprise"
+        ]
+      },
+      {
+        "city": "Enterprise",
+        "slug": "enterprise-nv",
+        "state": "NV",
+        "content": "Las Vegas Roofing proudly serves the growing community of Enterprise, Nevada. As a rapidly developing area in the Las Vegas Valley, Enterprise features a mix of new construction and established neighborhoods. We offer comprehensive roofing services to meet the diverse needs of Enterprise residents and businesses.\n\nOur team is experienced in working with the latest roofing technologies and materials, ensuring your roof is both durable and energy-efficient. We understand the importance of a well-maintained roof in the desert climate, and we are committed to providing reliable and affordable roofing solutions. Las Vegas Roofing is your trusted partner for all your roofing needs in Enterprise.",
+        "localContext": "Enterprise is a fast-growing area needing modern, durable roofing to protect against the desert climate.",
+        "nearbyAreas": [
+          "Henderson",
+          "Spring Valley",
+          "Paradise"
+        ]
+      },
+      {
+        "city": "Sunrise Manor",
+        "slug": "sunrise-manor-nv",
+        "state": "NV",
+        "content": "Las Vegas Roofing is dedicated to providing top-quality roofing services to the residents of Sunrise Manor, Nevada. As a large and diverse community, Sunrise Manor features a variety of housing styles and roofing needs. We offer a comprehensive range of roofing solutions to meet the specific requirements of Sunrise Manor homes.\n\nOur experienced team is equipped to handle all types of roofing projects, from minor repairs to complete replacements. We understand the importance of a well-maintained roof in the desert climate, and we are committed to providing reliable and affordable services. Las Vegas Roofing is your trusted choice for roofing in Sunrise Manor.",
+        "localContext": "Sunrise Manor needs reliable roofing for diverse housing styles, able to withstand the harsh desert environment.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "North Las Vegas",
+          "Whitney"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Roof Repair",
+        "text": "I had a leak in my roof after a recent monsoon. Las Vegas Roofing came out quickly and fixed the problem. They were professional, efficient, and the price was fair. Highly recommend!",
+        "date": "2025-05-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Roof Inspection",
+        "text": "We recently bought a house in Summerlin and wanted to get the roof inspected. The inspector was very thorough and provided a detailed report. Glad we did this!",
+        "date": "2025-04-22"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Gutter Cleaning",
+        "text": "Our gutters were completely clogged with leaves and debris. Las Vegas Roofing cleaned them out quickly and efficiently. They even repaired a section that was pulling away from the house. Great service!",
+        "date": "2025-03-10"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Roof Replacement",
+        "text": "Our old roof was falling apart. Las Vegas Roofing replaced it with a beautiful new tile roof. The crew was professional and the job was completed on time and within budget. The new roof looks fantastic!",
+        "date": "2025-02-01"
+      },
+      {
+        "name": "Susan P.",
+        "rating": 4,
+        "service": "Emergency Roofing",
+        "text": "A tree branch fell on our roof during a storm. Las Vegas Roofing responded quickly and provided temporary repairs to prevent further damage. They were a lifesaver!",
+        "date": "2025-01-18"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Flat Roofing",
+        "text": "I needed some repairs done on the flat roof of my commercial building. Las Vegas Roofing did an excellent job. They were professional, efficient, and the price was reasonable.",
+        "date": "2024-12-05"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Las Vegas Roofing | Expert Roofing Contractor",
+        "description": "Las Vegas Roofing: Trusted roofing contractor. Repairs, replacements, inspections. Protect your home from the harsh Vegas climate."
+      },
+      "about": {
+        "title": "About Las Vegas Roofing | Local Roofing Experts",
+        "description": "Learn about Las Vegas Roofing, your trusted local roofing contractor. Dedicated to quality, integrity, and serving the Las Vegas community."
+      },
+      "services": {
+        "title": "Roofing Services | Las Vegas Roofing",
+        "description": "Comprehensive roofing services in Las Vegas: repair, replacement, inspections, gutters. Protect your home with our expert solutions."
+      },
+      "contact": {
+        "title": "Contact Las Vegas Roofing | Get a Free Quote",
+        "description": "Contact Las Vegas Roofing for a free quote. Expert roofing repairs and replacements in the Las Vegas area. Call us today!"
+      },
+      "reviews": {
+        "title": "Las Vegas Roofing Reviews | See What Our Clients Say",
+        "description": "Read reviews from satisfied Las Vegas Roofing clients. See why we're the top choice for roofing repairs and replacements in the Las Vegas area."
+      },
+      "service-areas": {
+        "title": "Las Vegas Roofing Service Areas | Serving the Valley",
+        "description": "Las Vegas Roofing provides expert roofing services in Las Vegas, Henderson, North Las Vegas, and Summerlin. Contact us for a free quote!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "roof-repair": "/images/service-roof-repair.webp",
+      "roof-replacement": "/images/service-roof-replacement.webp",
+      "roof-inspections": "/images/service-roof-inspections.webp",
+      "gutter-services": "/images/service-gutter-services.webp",
+      "emergency-roofing": "/images/service-emergency-roofing.webp",
+      "flat-roofing": "/images/service-flat-roofing.webp",
+      "tile-roofing": "/images/service-tile-roofing.webp"
+    },
+    "servicesResponsive": {
+      "roof-repair": {
+        "src": "/images/service-roof-repair.webp",
+        "srcset": "/images/service-roof-repair-400w.webp 400w, /images/service-roof-repair-800w.webp 800w, /images/service-roof-repair-1200w.webp 1200w, /images/service-roof-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-replacement": {
+        "src": "/images/service-roof-replacement.webp",
+        "srcset": "/images/service-roof-replacement-400w.webp 400w, /images/service-roof-replacement-800w.webp 800w, /images/service-roof-replacement-1200w.webp 1200w, /images/service-roof-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roof-inspections": {
+        "src": "/images/service-roof-inspections.webp",
+        "srcset": "/images/service-roof-inspections-400w.webp 400w, /images/service-roof-inspections-800w.webp 800w, /images/service-roof-inspections-1200w.webp 1200w, /images/service-roof-inspections.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-services": {
+        "src": "/images/service-gutter-services.webp",
+        "srcset": "/images/service-gutter-services-400w.webp 400w, /images/service-gutter-services-800w.webp 800w, /images/service-gutter-services-1200w.webp 1200w, /images/service-gutter-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-roofing": {
+        "src": "/images/service-emergency-roofing.webp",
+        "srcset": "/images/service-emergency-roofing-400w.webp 400w, /images/service-emergency-roofing-800w.webp 800w, /images/service-emergency-roofing-1200w.webp 1200w, /images/service-emergency-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flat-roofing": {
+        "src": "/images/service-flat-roofing.webp",
+        "srcset": "/images/service-flat-roofing-400w.webp 400w, /images/service-flat-roofing-800w.webp 800w, /images/service-flat-roofing-1200w.webp 1200w, /images/service-flat-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-roofing": {
+        "src": "/images/service-tile-roofing.webp",
+        "srcset": "/images/service-tile-roofing-400w.webp 400w, /images/service-tile-roofing-800w.webp 800w, /images/service-tile-roofing-1200w.webp 1200w, /images/service-tile-roofing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
